@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-18T15:30:47.704Z'
-dateModified: '2015-12-18T15:30:40.281Z'
+datePublished: '2015-12-18T15:40:58.248Z'
+dateModified: '2015-12-18T15:40:48.718Z'
 title: Introduction
 author: []
 authors: []
@@ -23,6 +23,7 @@ _type: Article
 
 ---
 # Introduction
+null
 
 **No problem can be solved from the same level of consciousness that created it.**
 
