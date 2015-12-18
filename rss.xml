@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[test]]></title>
+        <description><![CDATA[test]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 18 Dec 2015 15:47:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Introduction]]></title>
+            <description><![CDATA[<article><h1>Introduction</h1><p>– Albert Einstein</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd578841ffa40c3a7b6fddeb4f3a100cc5617b93.jpg"></article>]]></description>
+            <link>undefinedintroduction/index.html</link>
+            <guid isPermaLink="false">3771a48c-fc6a-4092-82df-a18af22adf85</guid>
+            <pubDate>Fri, 18 Dec 2015 15:47:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
