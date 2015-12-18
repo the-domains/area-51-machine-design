@@ -1,6 +1,6 @@
 name: Area 51 Machine Design
 favicon: null
-layout_spectrum: 0.2475
+layout_spectrum: 0.49011
 typography_spectrum: 0.26247
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#c7c7c7'
     - '#8f8f8f'
   brandStrength: 0.8125
-  lightness: 0.6578407613560557
-  saturation: 0.7759613548405468
-  rhythmicContrast: 0.21279325964860618
+  lightness: 0.625
+  saturation: 0.8125
+  rhythmicContrast: 0.5
 purpose: []
